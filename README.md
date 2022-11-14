@@ -1,1 +1,3 @@
-# strudel
+# Strudel is the search engine you've always wanted...
+Please take it and use it as you see fit.
+Always remember, with great power comes great responsiility.
